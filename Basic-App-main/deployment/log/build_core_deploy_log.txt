@@ -1,0 +1,11 @@
+Buildfile: C:\Users\Harish\Documents\Mendix\Basic-App-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 52 files to C:\Users\Harish\Documents\Mendix\Basic-App-main\deployment
+     [copy] Copying 40 files to C:\Users\Harish\Documents\Mendix\Basic-App-main\deployment\model\lib\userlib
+     [copy] Copying 8 files to C:\Users\Harish\Documents\Mendix\Basic-App-main\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
