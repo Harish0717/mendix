@@ -11,6 +11,6 @@ package:
       [jar] Building jar: C:\Users\Harish\Documents\Mendix\Basic-App-main\deployment\model\bundles\project.jar
 
 BUILD SUCCESSFUL
-Total time: 3 seconds
+Total time: 4 seconds
 
 
